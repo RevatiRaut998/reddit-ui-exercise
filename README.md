@@ -15,9 +15,11 @@ A responsive frontend project that fetches and displays the latest posts from r/
 
 📁 Project Structure
 reddit-ui/
-├── index.html       # Main HTML structure
-├── style.css        # Stylesheet (responsive design + color theme)
-└── script.js        # JavaScript to fetch and render Reddit data
+│
+├── index.html     --> Main HTML structure
+├── style.css      --> Stylesheet (responsive design + color theme)
+└── script.js      --> JavaScript to fetch and render Reddit data
+
 
 🧪 Tech Stack
 - HTML5
