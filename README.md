@@ -1,29 +1,29 @@
 🧠 Angular Reddit Feed UI
 
-A responsive frontend project that fetches and displays the latest posts from r/Angular2. Each post is presented in a clean card layout showing the title, content, score, and link to the original post.
+A responsive frontend project that fetches and displays the latest posts from r/Angular2 using Vanilla JavaScript, HTML, and CSS. Each post is presented in a clean card layout showing the title, content, score, and link to the original post.
 
 📸 Preview
 🔗 Live Demo: https://revatiraut998.github.io/reddit-ui
 
 🚀 Features
-- 📡 Fetches real-time JSON data from Reddit API
-- 🗂 Displays Title, Score, SelfText (HTML), and Post URL
-- 🎨 Clean, Angular-themed card layout
-- 📱 Fully responsive (mobile/tablet/desktop)
-- 🧰 Built using plain HTML5, CSS3, and JavaScript (no frameworks)
-- ⚡ Optimized for 1280×720 screen resolution and above
+- Fetches real-time JSON data from Reddit API
+- Displays Title, Score, SelfText (HTML), and Post URL
+- Clean, Angular-themed card layout
+- Fully responsive (mobile/tablet/desktop)
+- Built using Vanilla JavaScript, HTML5, and CSS3 (no frameworks)
+- Optimized for 1280×720 screen resolution and above
 
 📁 Project Structure
-reddit-ui/
-  index.html     - Main HTML structure  
-  style.css      - Stylesheet (responsive design + color theme)  
-  script.js      - JavaScript to fetch and render Reddit data  
 
+reddit-ui/
+- index.html     --> Main HTML structure
+- style.css      --> Stylesheet (responsive design + color theme)
+- script.js      --> JavaScript to fetch and render Reddit data
 
 🧪 Tech Stack
 - HTML5
 - CSS3 (Responsive Grid)
-- JavaScript (ES6+, Fetch API)
+- Vanilla JavaScript (ES6+, Fetch API)
 - Live Reddit API: https://www.reddit.com/r/Angular2.json
 
 📦 Getting Started
